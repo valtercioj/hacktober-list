@@ -28,3 +28,4 @@ Quer adicionar um projeto legal? [Editar](https://github.com/gustavoFreireS/hack
 | https://github.com/phprn/psr                              | PHP                                     | php                  |
 | https://github.com/potigol/URI-Potigol                    | Potigol                                 | Potigol              |
 | https://github.com/rathoresrikant/HacktoberFestContribute | Simple problems for HacktoberFest       |                      |
+| https://github.com/valtercioj/Bot                         | bot python                              | python
